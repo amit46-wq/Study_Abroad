@@ -1,0 +1,15 @@
+/* Custom styles */
+.hero {
+    background-size: cover;
+    background-position: center;
+    background-image: url('assets/images/hero-bg.jpg'); /* Add your hero background image */
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Add hover effects for buttons and cards */
+  .hover\:shadow-lg:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
