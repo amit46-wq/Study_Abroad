@@ -56,9 +56,6 @@ Replace the placeholder values in scripts/firebaseconfig.js with your actual Fir
 
  Run the Project Locally
 Clone the Repository:
-
-bash
-Copy
 git clone https://github.com/your-username/study-mbbs-abroad.git
 cd study-mbbs-abroad
 Open the Project:
